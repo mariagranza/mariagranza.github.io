@@ -1,14 +1,40 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="calendario.css" type="text/css">
-    <title>Document</title>
+    <title>Calendário</title>
+    <style>
+        table, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+th{ 
+    background-color: rgb(173, 218, 173);
+    color: rgb(7, 51, 7);
+}
+table{
+    width: 400px;
+    height: 400px;
+}
+    </style>
 
 </head>
 <body>
+
+<img src="https://static.wixstatic.com/media/eec8b7_097c55ec03c74adf9dc028c4c4b329ab~mv2.png/v1/fill/w_960%2Ch_868%2Cal_c%2Cq_90/file.jpg"
+width="200px"
+height="200px">
+
+
+<br>
+<br>
+<br>
+<br>
+    
     <div class="Janeiro">
     <table>
         <thead>
@@ -134,8 +160,8 @@
     
                 <tr>
                     <td><h3>19</h3></td>
-                    <td><h3>20</h3></td>
-                    <td><h3>21</h3></td>
+                    <td style="background-color: rgb(24, 92, 24);"><h3>20</h3></td>
+                    <td style="background-color: rgb(24, 92, 24);"><h3>21</h3></td>
                     <td><h3>22</h3></td>
                     <td><h3>23</h3></td>
                     <td><h3>24</h3></td>
@@ -181,7 +207,7 @@
                         <td><h3></h3></td>
                         <td><h3></h3></td>
                         <td><h3></h3></td>
-                        <td><h3>1</h3></td>
+                        <td style="background-color: rgb(194, 214, 17);"><h3>1</h3></td>
                         <td><h3>2</h3></td>
                         <td><h3>3</h3></td>
                         <td><h3>4</h3></td>
@@ -192,9 +218,9 @@
                         <td><h3>6</h3></td>
                         <td><h3>7</h3></td>
                         <td><h3>8</h3></td>
-                        <td><h3>9</h3></td>
-                        <td><h3>10</h3></td>
-                        <td><h3>11</h3></td>
+                        <td style="background-color: rgb(24, 92, 24);"><h3>9</h3></td>
+                        <td style="background-color: rgb(24, 92, 24);"><h3>10</h3></td>
+                        <td style="background-color: rgb(24, 92, 24);"><h3>11</h3></td>
                     </tr>
         
                     <tr>
@@ -268,18 +294,18 @@
                             <td><h3>4</h3></td>
                             <td><h3>5</h3></td>
                             <td><h3>6</h3></td>
-                            <td><h3>7</h3></td>
-                            <td><h3>8</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>7</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>8</h3></td>
                         </tr>
             
                         <tr>
-                            <td><h3>9</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>9</h3></td>
                             <td><h3>10</h3></td>
                             <td><h3>11</h3></td>
                             <td><h3>12</h3></td>
                             <td><h3>13</h3></td>
                             <td><h3>14</h3></td>
-                            <td><h3>15</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>15</h3></td>
                         </tr>
             
                         <tr>
@@ -288,8 +314,8 @@
                             <td><h3>18</h3></td>
                             <td><h3>19</h3></td>
                             <td><h3>20</h3></td>
-                            <td><h3>21</h3></td>
-                            <td><h3>22</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>21</h3></td>
+                            <td style="background-color: rgb(24, 92, 24);"><h3>22</h3></td>
                         </tr>
             
                         <tr>
@@ -339,7 +365,7 @@
                             <tr>
                                 
                                 <td><h3></h3></td>
-                                <td><h3>1</h3></td>
+                                <td style="background-color: rgb(24, 92, 24);"><h3>1</h3></td>
                                 <td><h3>2</h3></td>
                                 <td><h3>3</h3></td>
                                 <td><h3>4</h3></td>
@@ -427,9 +453,9 @@
                                     <td><h3>5</h3></td>
                                     <td><h3>6</h3></td>
                                     <td><h3>7</h3></td>
-                                    <td><h3>8</h3></td>
-                                    <td><h3>9</h3></td>
-                                    <td><h3>10</h3></td>
+                                    <td style="background-color: rgb(24, 92, 24);"><h3>8</h3></td>
+                                    <td style="background-color: rgb(24, 92, 24);"><h3>9</h3></td>
+                                    <td style="background-color: rgb(24, 92, 24);"><h3>10</h3></td>
                                 </tr>
                     
                                 <tr>
@@ -509,37 +535,37 @@
                         
                                     <tr>
                                         <td><h3>9</h3></td>
-                                        <td><h3>10</h3></td>
-                                        <td><h3>11</h3></td>
-                                        <td><h3>12</h3></td>
-                                        <td><h3>13</h3></td>
-                                        <td><h3>14</h3></td>
-                                        <td><h3>15</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>10</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>11</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>12</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>13</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>14</h3></td>
+                                        <td style="background-color: rgb(224, 170, 68);"><h3>15</h3></td>
                                     </tr>
                         
                                     <tr>
                                         <td><h3>16</h3></td>
-                                        <td><h3>17</h3></td>
-                                        <td><h3>18</h3></td>
-                                        <td><h3>19</h3></td>
-                                        <td><h3>20</h3></td>
-                                        <td><h3>21</h3></td>
-                                        <td><h3>22</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>17</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>18</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>19</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>20</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>21</h3></td>
+                                        <td style="background-color: rgb(228, 110, 120);"><h3>22</h3></td>
                                     </tr>
                         
                                     <tr>
-                                        <td><h3>23</h3></td>
-                                        <td><h3>24</h3></td>
-                                        <td><h3>25</h3></td>
-                                        <td><h3>26</h3></td>
-                                        <td><h3>27</h3></td>
-                                        <td><h3>28</h3></td>
-                                        <td><h3>29</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>23</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>24</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>25</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>26</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>27</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>28</h3></td>
+                                        <td style="background-color: rgb(79, 214, 79);"><h3>29</h3></td>
                                     </tr>
             
                                     <tr>
                                         <td><h3>30</h3></td>
-                                        <td><h3>31</h3></td>
+                                        <td style="background-color: rgb(194, 214, 17);"><h3>31</h3></td>
                                         <td><h3></h3></td>
                                         <td><h3></h3></td>
                                         <td><h3></h3></td>
@@ -627,21 +653,311 @@
                         
                                 <br>
                                 <br>
+
+                                <div class="Setembro">
+                                    <table>
+                                        <thead>
+                                        <tr>
+                                            <th colspan="7"><h2>Setembro</h2></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>D</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>T</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                            <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                            </tr>
+                                
+                                            <tr>
+                                                
+                                                <td><h3></h3></td>
+                                                <td><h3></h3></td>
+                                                <td><h3></h3></td>
+                                                <td><h3></h3></td>
+                                                <td><h3></h3></td>
+                                                <td><h3>1</h3></td>
+                                                <td><h3>2</h3></td>
+                                            </tr>
+                                
+                                            <tr>
+                                                <td><h3>3</h3></td>
+                                                <td><h3>4</h3></td>
+                                                <td><h3>5</h3></td>
+                                                <td><h3>6</h3></td>
+                                                <td style="background-color: rgb(24, 92, 24);"><h3>7</h3></td>
+                                                <td style="background-color: rgb(24, 92, 24);"><h3>8</h3></td>
+                                                <td style="background-color: rgb(24, 92, 24);"><h3>9</h3></td>
+                                            </tr>
+                                
+                                            <tr>
+                                                <td><h3>10</h3></td>
+                                                <td><h3>11</h3></td>
+                                                <td><h3>12</h3></td>
+                                                <td><h3>13</h3></td>
+                                                <td><h3>14</h3></td>
+                                                <td><h3>15</h3></td>
+                                                <td><h3>16</h3></td>
+                                            </tr>
+                                
+                                            <tr>
+                                                <td><h3>17</h3></td>
+                                                <td><h3>18</h3></td>
+                                                <td><h3>19</h3></td>
+                                                <td><h3>20</h3></td>
+                                                <td><h3>21</h3></td>
+                                                <td><h3>22</h3></td>
+                                                <td style="background-color: rgb(24, 92, 24);"><h3>23</h3></td>
+                                            </tr>
+                                
+                                            <tr>
+                                                <td><h3>24</h3></td>
+                                                <td><h3>25</h3></td>
+                                                <td><h3>26</h3></td>
+                                                <td><h3>27</h3></td>
+                                                <td><h3>28</h3></td>
+                                                <td><h3>29</h3></td>
+                                                <td><h3>30</h3></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </div>
+                            
+                                    <br>
+                                    <br>
+
+                                    <div class="Outubro">
+                                        <table>
+                                            <thead>
+                                            <tr>
+                                                <th colspan="7"><h2>Outubro</h2></th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>D</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>T</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                </tr>
+                                    
+                                                <tr>
+                                                    <td><h3>1</h3></td>
+                                                    <td><h3>2</h3></td>
+                                                    <td><h3>3</h3></td>
+                                                    <td><h3>4</h3></td>
+                                                    <td><h3>5</h3></td>
+                                                    <td><h3>6</h3></td>
+                                                    <td><h3>7</h3></td>
+                                                </tr>
+                                    
+                                                <tr>
+                                                    <td><h3>8</h3></td>
+                                                    <td><h3>9</h3></td>
+                                                    <td><h3>10</h3></td>
+                                                    <td><h3>11</h3></td>
+                                                    <td style="background-color: rgb(24, 92, 24);"><h3>12</h3></td>
+                                                    <td><h3>13</h3></td>
+                                                    <td><h3>14</h3></td>
+                                                </tr>
+                                    
+                                                <tr>
+                                                    <td style="background-color: rgb(24, 92, 24);"><h3>15</h3></td>
+                                                    <td><h3>16</h3></td>
+                                                    <td><h3>17</h3></td>
+                                                    <td><h3>18</h3></td>
+                                                    <td><h3>19</h3></td>
+                                                    <td><h3>20</h3></td>
+                                                    <td><h3>21</h3></td>
+                                                </tr>
+                                    
+                                                <tr>
+                                                    <td><h3>22</h3></td>
+                                                    <td><h3>23</h3></td>
+                                                    <td><h3>24</h3></td>
+                                                    <td><h3>25</h3></td>
+                                                    <td><h3>26</h3></td>
+                                                    <td><h3>27</h3></td>
+                                                    <td><h3>28</h3></td>
+                                                </tr>
+                                    
+                                                <tr>
+                                                    <td><h3>29</h3></td>
+                                                    <td><h3>30</h3></td>
+                                                    <td><h3>31</h3></td>
+                                                    <td><h3></h3></td>
+                                                    <td><h3></h3></td>
+                                                    <td><h3></h3></td>
+                                                    <td><h3></h3></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        </div>
+                                    
+                                        <br>
+                                        <br>
+
+                                        <div class="Novembro">
+                                            <table>
+                                                <thead>
+                                                <tr>
+                                                    <th colspan="7"><h2>Novembro</h2></th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>D</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>T</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                    <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                    </tr>
+                                        
+                                                    <tr>
+                                                        
+                                                        <td><h3></h3></td>
+                                                        <td><h3></h3></td>
+                                                        <td><h3></h3></td>
+                                                        <td><h3>1</h3></td>
+                                                        <td style="background-color: rgb(24, 92, 24);"><h3>2</h3></td>
+                                                        <td><h3>3</h3></td>
+                                                        <td><h3>4</h3></td>
+                                                    </tr>
+                                        
+                                                    <tr>
+                                                        <td><h3>5</h3></td>
+                                                        <td><h3>6</h3></td>
+                                                        <td><h3>7</h3></td>
+                                                        <td><h3>8</h3></td>
+                                                        <td><h3>9</h3></td>
+                                                        <td><h3>10</h3></td>
+                                                        <td><h3>11</h3></td>
+                                                    </tr>
+                                        
+                                                    <tr>
+                                                        <td><h3>12</h3></td>
+                                                        <td><h3>13</h3></td>
+                                                        <td><h3>14</h3></td>
+                                                        <td style="background-color: rgb(24, 92, 24);"><h3>15</h3></td>
+                                                        <td><h3>16</h3></td>
+                                                        <td><h3>17</h3></td>
+                                                        <td><h3>18</h3></td>
+                                                    </tr>
+                                        
+                                                    <tr>
+                                                        <td><h3>19</h3></td>
+                                                        <td><h3>20</h3></td>
+                                                        <td><h3>21</h3></td>
+                                                        <td><h3>22</h3></td>
+                                                        <td><h3>23</h3></td>
+                                                        <td><h3>24</h3></td>
+                                                        <td><h3>25</h3></td>
+                                                    </tr>
+                                        
+                                                    <tr>
+                                                        <td><h3>26</h3></td>
+                                                        <td><h3>27</h3></td>
+                                                        <td><h3>28</h3></td>
+                                                        <td><h3>29</h3></td>
+                                                        <td><h3>30</h3></td>
+                                                        <td><h3></h3></td>
+                                                        <td><h3></h3></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            </div>
+                                    
+                                            <br>
+                                            <br>
+
+                                            <div class="Dezembro">
+                                                <table>
+                                                    <thead>
+                                                    <tr>
+                                                        <th colspan="7"><h2>Dezembro</h2></th>
+                                                    </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>D</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>T</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>Q</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                        <td style="background-color: rgb(119, 197, 119);"><h3>S</h3></td>
+                                                        </tr>
+                                            
+                                                        <tr>
+                                                            
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3>1</h3></td>
+                                                            <td><h3>2</h3></td>
+                                                        </tr>
+                                            
+                                                        <tr>
+                                                            <td><h3>3</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>4</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>5</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>6</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>7</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>8</h3></td>
+                                                            <td style="background-color: rgb(224, 170, 68);"><h3>9</h3></td>
+                                                        </tr>
+                                            
+                                                        <tr>
+                                                            <td><h3>10</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>11</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>12</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>13</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>14</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>15</h3></td>
+                                                            <td style="background-color: rgb(228, 110, 120);"><h3>16</h3></td>
+                                                        </tr>
+                                            
+                                                        <tr>
+                                                            <td><h3>17</h3></td>
+                                                            <td><h3>18</h3></td>
+                                                            <td><h3>19</h3></td>
+                                                            <td><h3>20</h3></td>
+                                                            <td><h3>21</h3></td>
+                                                            <td><h3>22</h3></td>
+                                                            <td><h3>23</h3></td>
+                                                        </tr>
+                                            
+                                                        <tr>
+                                                            <td><h3>24</h3></td>
+                                                            <td style="background-color: rgb(24, 92, 24);"><h3>25</h3></td>
+                                                            <td><h3>26</h3></td>
+                                                            <td><h3>27</h3></td>
+                                                            <td><h3>28</h3></td>
+                                                            <td><h3>29</h3></td>
+                                                            <td><h3>30</h3></td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td><h3>31</h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                            <td><h3></h3></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </div>           
 </body>
 </html>
-
-CSS
-
-table, tr, td{
-    border: 1px solid black;
-    border-collapse: collapse;
-    border-spacing: 0px;
-}
-th{ 
-    background-color: rgb(173, 218, 173);
-    color: rgb(7, 51, 7);
-}
-table{
-    width: 400px;
-    height: 400px;
-}
