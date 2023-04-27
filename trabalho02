@@ -20,6 +20,10 @@ table{
     width: 400px;
     height: 400px;
 }
+.Janeiro, .Fevereiro, .Março, .Abril, .Maio, .Junho, .Julho, .Agosto, .Setembro, .Novembro, .Dezembro{
+    display: flex;
+    flex-direction: row;
+}
     </style>
 
 </head>
@@ -104,6 +108,9 @@ height="200px">
             </tr>
         </tbody>
     </table>
+    &nbsp; 1 – Feriado nacional: Confraternização Universal
+    <br>
+    &nbsp; 31 – Término das férias para os professores, tutores e preceptores que gozaram de 30 dias de férias
     </div>
 
     <br>
@@ -179,6 +186,27 @@ height="200px">
                 </tr>
             </tbody>
         </table>
+        &nbsp; 1 – Posse dos novos coordenadores de curso
+        <br>
+        &nbsp; 6 a 10 – Profissionalização Docente Intensiva
+        <br>
+        &nbsp; 11 – Colação de grau – Odontologia
+        <br>
+        &nbsp; 13 a 17 – Planejamento pedagógico
+        <br>
+        &nbsp; 15 – Reunião do Comitê de Ética em Pesquisa
+        <br>
+        &nbsp; 15 e 16 – Colação de grau especial em Joinville
+        <br>
+        &nbsp; 16 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em Pesquisa
+        <br>
+        &nbsp; 20 e 21 (carnaval) – Recesso acadêmico
+        <br>
+        &nbsp; 22 – Início das aulas para os cursos de Ciências da Religião, Educação Especial, Educação Escolar Quilombola, <br> Geografia e Pedagogia e para a 5.ª série do curso de Psicologia
+        <br>
+        &nbsp; 22 – Recesso acadêmico até 12h
+        <br>
+        &nbsp; 28 – Último dia para entrega do Relatório de Atividades/2022 do Núcleo Docente Estruturante (NDE)
         </div>
 
         <br>
@@ -254,6 +282,44 @@ height="200px">
                     </tr>
                 </tbody>
             </table>
+             &nbsp; 1 – Início das aulas
+            <br>
+            &nbsp; 4 – Colação de grau – Direito, do Campus
+            Joinville
+            <br>
+            &nbsp; 4 – Colação de grau – Direito (matutino e
+            noturno), Gestão Comercial e Engenharia
+            Mecânica, do Campus São Bento do Sul
+            <br>
+            &nbsp; 7 – Último dia para os alunos matriculados
+            em 2023/1 (regime anual) e 2023-1
+            (regime semestral) requererem exame
+            de <br> aproveitamento de estudos, dispensa
+            de disciplina e matrícula em disciplina
+            extracurricular e fora da série
+            <br>
+            &nbsp; 8 – Reunião do Comitê de Ética em Pesquisa
+            <br>
+            &nbsp; 9 – Feriado municipal em Joinville: aniversário da cidade
+            <br>
+            &nbsp; 10 e 11 – Recesso acadêmico em Joinville
+            <br>
+            &nbsp; 15 – Último dia para os alunos matriculados em 2022/1 (regime anual) e 2022-2
+            (regime semestral) solicitarem matrícula fora do prazo
+            <br>
+            &nbsp; 18 – Colação de grau – Farmácia, Naturologia, Psicologia, Enfermagem e Ciências
+            Biológicas
+            <br>
+            &nbsp; 22 e 23 – Colação de grau especial em Joinville
+            <br>
+            &nbsp; 23 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética
+            em Pesquisa
+            <br>
+            &nbsp; 25 – Colação de grau – Educação Física (Bacharelado e Licenciatura – Joinville) e
+            Publicidade e Propaganda
+            <br>
+            &nbsp; 27 – Último dia para os alunos matriculados em 2023/1 (regime anual) e 2023-1
+            (regime semestral) requererem alteração de matrícula
             </div>
     
             <br>
@@ -339,6 +405,44 @@ height="200px">
                         </tr>
                     </tbody>
                 </table>
+                &nbsp; 1 – Colação de grau – Engenharia Mecânica,
+                Engenharia de Produção e Engenharia Civil, do
+                Campus Joinville
+                <br>
+                &nbsp; 6 – Colação de grau especial em São Bento do
+                Sul
+                <br>
+                &nbsp; 7 – Feriado nacional: Sexta-feira da Paixão
+                <br>
+                &nbsp; 8 – Recesso acadêmico
+                <br>
+                &nbsp; 9 – Páscoa
+                <br>
+                &nbsp; 12 – Reunião do Comitê de Ética em Pesquisa
+                <br>
+                &nbsp; 12 e 13 – Integração dos novos profissionais da
+                educação
+                <br>
+                &nbsp; 15 – Feriado municipal em São Francisco do Sul:
+                aniversário da cidade
+                <br>
+                &nbsp; 15 – Colação de grau – Engenharia Química,
+                Engenharia Ambiental e Sanitária e Arquitetura e Urbanismo, do Campus Joinville
+                <br>
+                &nbsp; 20 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética em
+                Pesquisa
+                <br>
+                &nbsp; 21 – Feriado nacional: Tiradentes
+                <br>
+                &nbsp; 22 – Recesso acadêmico
+                <br>
+                &nbsp; 28 – Último dia para entrega do Plano Anual de Trabalho do Núcleo Docente Estruturante
+                (NDE)
+                <br>
+                &nbsp; 28 – Último dia para os alunos que renovaram matrícula entregarem o contrato de
+                prestação de serviços educacionais à Central de  <br> Atendimento Acadêmico
+                <br>
+                &nbsp; 29 – Colação de grau – Engenharia de Software e Sistemas de Informação
                 </div>
         
                 <br>
@@ -414,6 +518,20 @@ height="200px">
                             </tr>
                         </tbody>
                     </table>
+                     &nbsp; 1 – Feriado nacional: Dia do Trabalho
+                    <br>
+                    &nbsp; 6 – Colação de grau – Design, Fotografia e
+                    Gastronomia
+                    <br>
+                    &nbsp; 8 – Último dia para publicação de notas do bimestre
+                    <br>
+                    &nbsp; 10 – Reunião do Comitê de Ética em Pesquisa
+                    <br>
+                    &nbsp; 13 – Colação de grau – Ciências Biológicas (Biologia
+                    Marinha)
+                    <br>
+                    &nbsp; 25 – Data limite para envio de projetos de pesquisa
+                    para análise do Comitê de Ética em Pesquisa
                     </div>
             
                     <br>
