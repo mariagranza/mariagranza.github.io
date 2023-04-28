@@ -20,7 +20,7 @@ table{
     width: 400px;
     height: 400px;
 }
-.Janeiro, .Fevereiro, .Março, .Abril, .Maio, .Junho, .Julho, .Agosto, .Setembro, .Novembro, .Dezembro{
+.Janeiro, .Fevereiro, .Março, .Abril, .Maio, .Junho, .Julho, .Agosto, .Setembro, .Novembro, .Dezembro, .titulo{
     display: flex;
     flex-direction: row;
 }
@@ -29,9 +29,12 @@ table{
 </head>
 <body>
 
+<div class="titulo">
 <img src="https://static.wixstatic.com/media/eec8b7_097c55ec03c74adf9dc028c4c4b329ab~mv2.png/v1/fill/w_960%2Ch_868%2Cal_c%2Cq_90/file.jpg"
 width="200px"
 height="200px">
+&nbsp; <h2>Calendário Acadêmico 2023 <br> Cursos presenciais, exceto Medicina <br> Regime anual / regime semestral – Univille </h2>
+</div>
 
 
 <br>
@@ -607,6 +610,18 @@ height="200px">
                                 </tr>
                             </tbody>
                         </table>
+                        &nbsp; 8 – Feriado nacional: Corpus Christi
+                        <br>
+                        &nbsp; 9 e 10 – Recesso acadêmico
+                        <br>
+                        &nbsp; 12 – Último dia para entrega das Atividades
+                        Complementares (alunos concluintes, exceto
+                        Medicina)
+                        <br>
+                        &nbsp; 14 – Reunião do Comitê de Ética em Pesquisa
+                        <br>
+                        &nbsp; 22 – Data limite para envio de projetos de pesquisa
+                        para análise do Comitê de Ética em Pesquisa
                         </div>
                 
                         <br>
@@ -692,6 +707,43 @@ height="200px">
                                     </tr>
                                 </tbody>
                             </table>
+                            &nbsp; 7 – Colação de grau – Medicina
+                            <br>
+                            &nbsp; 8 – Término do semestre para cursos anuais e
+                            semestrais, exceto para Ciências da Religião, <br>
+                            Educação Especial, Educação Escolar
+                            Quilombola, Geografia, Pedagogia e 5.ª série
+                            do curso de Psicologia
+                            <br>
+                            &nbsp; 10 a 15 – Reposição/recuperação de aulas,
+                            exceto para Ciências da Religião, Educação
+                            Especial, <br> Educação Escolar Quilombola,
+                            Geografia, Pedagogia e 5.ª série do curso de
+                            Psicologia
+                            <br>
+                            &nbsp; 12 – Reunião do Comitê de Ética em Pesquisa
+                            <br>
+                            &nbsp; 15 – Término do 1.º semestre (incluindo exames
+                            finais) para os cursos de Ciências da Religião,
+                            Educação Especial, <br> Educação Escolar Quilombola, Geografia e Pedagogia e para a
+                            5.ª série do curso de Psicologia
+                            <br>
+                            &nbsp; 15 – Último dia para publicação de notas do bimestre
+                            <br>
+                            &nbsp; 17 e 18 – Profissionalização Docente Intensiva
+                            <br>
+                            &nbsp; 17 a 22 – Exames finais
+                            <br>
+                            &nbsp; 20 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética
+                            em Pesquisa
+                            <br>
+                            &nbsp; 24 – Início das aulas para os cursos de Ciências da Religião, Educação Especial, <br> 
+                            Educação Escolar Quilombola, Geografia e Pedagogia e para a 5.ª série do curso
+                            de Psicologia
+                            <br>
+                            &nbsp; 24 a 29 – Recesso acadêmico
+                            <br>
+                            &nbsp; 31 – Início das aulas
                             </div>
                     
                             <br>
@@ -767,6 +819,49 @@ height="200px">
                                         </tr>
                                     </tbody>
                                 </table>
+                                &nbsp; 4 – Último dia para os alunos matriculados
+                                em 2023/2 (regime anual) e 2023-2 (regime
+                                semestral) <br> requererem dispensa de disciplina,
+                                exame de aproveitamento de estudos e
+                                <br> matrícula em disciplina extracurricular e fora da
+                                série
+                                <br>
+                                &nbsp; 5 – Colação de Grau – Direito, do Campus
+                                Joinville
+                                <br>
+                                &nbsp; 9 – Reunião do Comitê de Ética em Pesquisa
+                                <br>
+                                &nbsp; 11 – Último dia para os alunos matriculados
+                                em 2022/2 (regime anual) e 2023-1 (regime
+                                semestral) <br> solicitarem matrícula fora do prazo
+                                <br>
+                                &nbsp; 12 – Colação de grau – Química, do Campus São Bento do Sul
+                                <br>
+                                &nbsp; 14 – Dia da Univille
+                                <br>
+                                &nbsp; 14 – Último dia para os alunos matriculados em 2023/2 (regime anual) e 2023-2
+                                (regime semestral) <br> requererem alteração de matrícula
+                                <br>
+                                &nbsp; 14 a 18 – Semana da Comunidade
+                                <br>
+                                &nbsp; 19 – Colação de grau – Administração, Ciências Contábeis, Comércio Exterior,
+                                Ciências Econômicas e <br> Educação Escolar Quilombola, do Campus Joinville
+                                <br>
+                                &nbsp; 23 e 24 – Colação de grau especial em Joinville
+                                <br>
+                                &nbsp; 24 – Colação de grau especial em São Bento do Sul
+                                <br>
+                                &nbsp; 24 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética
+                                em Pesquisa
+                                <br>
+                                &nbsp; 26 – Colação de grau – Administração e Ciências Contábeis, do Campus São Bento
+                                do Sul
+                                <br>
+                                &nbsp; 26 – Colação de grau – Artes Visuais, Pedagogia, Letras / Inglês, História e Ciências
+                                Biológicas (Licenciatura), <br> do Campus Joinville
+                                <br>
+                                &nbsp; 31 – Último dia para os alunos que renovaram matrícula entregarem o contrato de
+                                prestação de <br> serviços educacionais à Central de Atendimento Acadêmico
                                 </div>
                         
                                 <br>
@@ -842,6 +937,24 @@ height="200px">
                                             </tr>
                                         </tbody>
                                     </table>
+                                    &nbsp; 7 – Feriado nacional: Independência do Brasil
+                                    <br>
+                                    &nbsp; 8 – Feriado municipal em São Francisco do Sul:
+                                    Dia da Padroeira
+                                    <br>
+                                    &nbsp; 8 e 9 – Recesso acadêmico
+                                    <br>
+                                    &nbsp; 13 – Reunião do Comitê de Ética em Pesquisa
+                                    <br>
+                                    &nbsp; 13 e 14 – Integração dos novos profissionais da
+                                    educação
+                                    <br>
+                                    &nbsp; 21 – Data limite para envio de projetos de
+                                    pesquisa para análise do Comitê de Ética em
+                                    Pesquisa
+                                    <br>
+                                    &nbsp; 23 – Feriado municipal em São Bento do Sul:
+                                    aniversário da cidade
                                     </div>
                             
                                     <br>
@@ -916,6 +1029,26 @@ height="200px">
                                                 </tr>
                                             </tbody>
                                         </table>
+                                        &nbsp; 2 – Último dia para publicação de notas do
+                                        bimestre
+                                        <br>
+                                        &nbsp; 11 – Reunião do Comitê de Ética em Pesquisa
+                                        <br>
+                                        &nbsp; 12 – Feriado nacional: Dia de Nossa Senhora
+                                        Aparecida
+                                        <br>
+                                        &nbsp; 13 – Último dia para solicitação de prova de
+                                        aproveitamento de estudos
+                                        <br>
+                                        &nbsp; 15 – Dia do Professor e do Auxiliar de
+                                        Administração Escolar – feriado escolar
+                                        <br>
+                                        &nbsp; 19 – Data limite para envio de projetos de
+                                        pesquisa para análise do Comitê de Ética em
+                                        Pesquisa
+                                        <br>
+                                        &nbsp; 31 – Último dia para entrega das atividades complementares (alunos concluintes,
+                                        exceto Medicina)
                                         </div>
                                     
                                         <br>
@@ -991,6 +1124,16 @@ height="200px">
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            &nbsp; 2 – Feriado nacional: Finados
+                                            <br>
+                                            &nbsp; 8 – Reunião do Comitê de Ética em Pesquisa
+                                            <br>
+                                            &nbsp; 15 – Feriado nacional: Proclamação da
+                                            República
+                                            <br>
+                                            &nbsp; 23 – Data limite para envio de projetos de
+                                            pesquisa para análise do Comitê de Ética em
+                                            Pesquisa
                                             </div>
                                     
                                             <br>
@@ -1076,6 +1219,50 @@ height="200px">
                                                         </tr>
                                                     </tbody>
                                                 </table>
+                                                &nbsp; 2 – Término do semestre, exceto para os cursos
+                                                de Ciências da Religião, Educação Especial,
+                                                <br> Educação Escolar Quilombola, Geografia
+                                                e Pedagogia e para a 5.ª série do curso de
+                                                Psicologia
+                                                <br>
+                                                &nbsp; 4 a 9 – Reposição/recuperação de aulas,
+                                                exceto para os cursos de Ciências da Religião,
+                                                Educação Especial, <br> Educação Escolar
+                                                Quilombola, Geografia e Pedagogia e para a
+                                                5.ª série do curso de Psicologia
+                                                <br>
+                                                &nbsp; 5 – Colação de grau – Medicina
+                                                <br>
+                                                &nbsp; 9 – Último dia para publicação de notas do
+                                                bimestre
+                                                <br>
+                                                &nbsp; 9 – Término do semestre para os cursos de Ciências da Religião, Educação Especial,
+                                                <br> Educação Escolar Quilombola, Geografia e Pedagogia e para a 5.ª série do curso de
+                                                Psicologia
+                                                <br>
+                                                &nbsp; 11 a 16 – Exames finais, exceto para os cursos de Ciências da Religião, Educação
+                                                Especial, <br> Educação Escolar Quilombola, Geografia e Pedagogia e para a 5.ª série
+                                                do curso de Psicologia
+                                                <br>
+                                                &nbsp; 11 a 16 – Reposição/recuperação de aulas para os cursos de Ciências da Religião,
+                                                Educação Especial, <br> Educação Escolar Quilombola, Geografia e Pedagogia e para a
+                                                5.ª série do curso de Psicologia
+                                                <br>
+                                                &nbsp; 13 – Reunião do Comitê de Ética em Pesquisa
+                                                <br>
+                                                &nbsp; 15 – Data limite para envio de projetos de pesquisa para análise do Comitê de Ética
+                                                em Pesquisa
+                                                <br>
+                                                &nbsp; 18 a 21 – Exames finais para os cursos de Ciências da Religião, Educação Especial,
+                                                <br> Educação Escolar Quilombola, Geografia e Pedagogia e para a 5.ª série do curso de
+                                                Psicologia
+                                                <br>
+                                                &nbsp; 20 – Último dia para publicação de notas de exames finais e trabalhos de conclusão
+                                                de curso <br> (TCC/TCE/monografia/trabalho de graduação)
+                                                <br>
+                                                &nbsp; 22 – Encerramento das atividades
+                                                <br>
+                                                &nbsp; 25 – Natal
                                                 </div>           
 </body>
 </html>
