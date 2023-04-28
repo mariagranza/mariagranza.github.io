@@ -20,7 +20,7 @@ table{
     width: 400px;
     height: 400px;
 }
-.Janeiro, .Fevereiro, .Março, .Abril, .Maio, .Junho, .Julho, .Agosto, .Setembro, .Novembro, .Dezembro, .titulo{
+.Janeiro, .Fevereiro, .Março, .Abril, .Maio, .Junho, .Julho, .Agosto, .Outubro, .Setembro, .Novembro, .Dezembro, .titulo{
     display: flex;
     flex-direction: row;
 }
